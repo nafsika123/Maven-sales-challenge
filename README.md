@@ -28,4 +28,4 @@ You can interact with the visualizations by visiting my Tableau Public profile a
 
 Alternatively, here is a screenshot of the final dashboard:
 
-![Dashboard Screenshot](Dashboard 1.png)
+![Dashboard Screenshot](dashboard.png)
