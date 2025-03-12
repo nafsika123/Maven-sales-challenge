@@ -13,6 +13,8 @@ The data contains B2B sales opportunities from a CRM database for a fictitious c
 - **`clean_tables.sql`**: SQL script to clean and prepare the data for analysis.
 - **`combine_tables.sql`**: SQL script to combine the necessary tables into a unified dataset for analysis.
 - **`Maven_sales_challenge.twbx`**: Tableau packaged workbook that contains the visualizations created for the dashboard.
+- **`dashboard.png`**: Image file of the final Tableau dashboard.
+  
 
 ## Data Source
 You can download the dataset used for this analysis from [here](https://mavenanalytics.io/challenges/maven-sales-challenge/8f59bcfa-d310-4947-b3d8-917b3cce270e). 
