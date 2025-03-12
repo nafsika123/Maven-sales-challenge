@@ -4,7 +4,7 @@ For the Maven Sales Challenge, you'll play the role of a BI Developer for **Mave
 
 In an effort to become a data-driven organization, you've been asked to create an interactive dashboard that enables sales managers to track their team's quarterly performance.
 
-### About The Data Set
+### About The Dataset
 The data contains B2B sales opportunities from a CRM database for a fictitious company that sells computer hardware, including information on accounts, products, sales teams, and sales opportunities. This dataset provides insights into how the sales teams are performing, what products are being sold, and how they are progressing through the sales pipeline.
 
 ### Files Included:
