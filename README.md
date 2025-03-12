@@ -26,4 +26,6 @@ You can download the dataset used for this analysis from [here](https://mavenana
 You can interact with the visualizations by visiting my Tableau Public profile and viewing the dashboard at this link: [View the Interactive Dashboard on Tableau Public](https://public.tableau.com/app/profile/nafsika.kalogeropoulou/viz/Maven_Sales_Challenge/Dashboard1).
 
 
-  
+Alternatively, here is a screenshot of the final dashboard:
+
+![Dashboard Screenshot](Dashboard 1.png)
